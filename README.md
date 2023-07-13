@@ -1,5 +1,5 @@
 # Aprendizado de máquina
-##Atividade: Predição de desempenho acadêmico nos cursos técnicos ofertados na modalidade EaD
+## Atividade: Predição de desempenho acadêmico nos cursos técnicos ofertados na modalidade EaD
 Acadêmicos: Carlos Eduardo Santana Azevedo, Rafael Nink de Carvalho
 
 Proposta de experimento em aprendizado de máquina.
